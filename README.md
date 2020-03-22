@@ -1,6 +1,8 @@
 # Minecraft-Macros
 AutoHotKey scripts to do tasks in Minecraft.
 
+Ninja and Breezily Bridging with these scripts:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gN8uG_gvuCw
 " target="_blank"><img src="http://img.youtube.com/vi/gN8uG_gvuCw/0.jpg" 
   alt="Speedbridging" width="240" height="180" border="10" /></a>
